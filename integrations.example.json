@@ -1,0 +1,13 @@
+{
+  "music": {
+    "provider": "beefweb",
+    "endpoint": "http://127.0.0.1:8880/api",
+    "note": "Adresse fixée dans le backend ; le fichier est documentaire, pas chargé à l’exécution."
+  },
+  "googleCalendar": {
+    "enabled": false,
+    "desktopClientId": "",
+    "direction": "read-only",
+    "note": "Synchronisation non implémentée dans la version 0.1. Ne pas ajouter de secret ici."
+  }
+}

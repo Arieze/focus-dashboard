@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-desktop-tools"
+description = "Lire les informations PC et parcourir ou ouvrir les dossiers du chemin projets choisi."
+commands.allow = ["market_quote", "weather_search", "weather_forecast", "load_state", "save_state", "state_backups", "pc_metrics", "start_hardware_monitor", "project_folders", "open_project", "shortcut_action"]

@@ -1,0 +1,52 @@
+async (page) => {
+  const errors=[];
+  page.on('pageerror', error=>errors.push(String(error)));
+  await page.evaluate(async()=>{
+    const {musicProvider}=await import('/src/services/music.ts');
+    window.__music={connected:true,message:'Lecteur simulé pour vérification',player:{info:{name:'Test'},playbackState:'playing',activeItem:{columns:['Titre A','Artiste','Album'],position:10,duration:180},volume:{type:'db',min:-100,max:0,value:-20}}};
+    musicProvider.status=async()=>structuredClone(window.__music);
+    musicProvider.control=async(action)=>{if(action==='play-pause')window.__music.player.playbackState=window.__music.player.playbackState==='playing'?'paused':'playing';};
+    musicProvider.albums=async()=>({albums:[],truncated:false});
+  });
+  const widget=page.locator('[data-widget="music"]');
+  await widget.scrollIntoViewIfNeeded();
+  await page.waitForFunction(()=>document.querySelector('.music-note'));
+  await page.waitForTimeout(1100);
+  const count=await page.locator('.music-note').count();
+  if(count<1||count>8)throw Error('Invalid particle count '+count);
+  await page.screenshot({path:'output/playwright/music-particles-wide.png'});
+  await page.getByRole('button',{name:'Lecture ou pause',exact:true}).click();
+  await page.waitForTimeout(3200);
+  if(await page.locator('.music-note').count())throw Error('Paused particles did not finish');
+  await page.getByRole('button',{name:'Lecture ou pause',exact:true}).click();
+  await page.waitForFunction(()=>document.querySelector('.music-note'));
+  await page.evaluate(()=>window.__music.player.activeItem.columns[0]='Titre B');
+  await page.waitForTimeout(3200);
+  if(await page.locator('.music-note').count()>8)throw Error('Burst overflow');
+  await page.setViewportSize({width:440,height:800});
+  await widget.scrollIntoViewIfNeeded();
+  await page.waitForFunction(()=>document.querySelector('.music-note'));
+  await page.screenshot({path:'output/playwright/music-particles-narrow.png'});
+  const geometry=await page.evaluate(()=>{
+    const a=document.querySelector('.music-cover').getBoundingClientRect();
+    const b=document.querySelector('.music-particles').getBoundingClientRect();
+    return {x:b.left-a.left,y:b.top-a.top,pointer:getComputedStyle(document.querySelector('.music-particles')).pointerEvents};
+  });
+  if(geometry.x!==-12||geometry.y!==-24||geometry.pointer!=='none')throw Error('Cover anchoring '+JSON.stringify(geometry));
+  await page.emulateMedia({reducedMotion:'reduce'});
+  await page.waitForTimeout(100);
+  if(await page.locator('.music-note').count())throw Error('Reduced motion did not stop');
+  await page.emulateMedia({reducedMotion:'no-preference'});
+  await page.waitForFunction(()=>document.querySelector('.music-note'));
+  await page.evaluate(()=>window.scrollTo(0,0));
+  await page.waitForTimeout(200);
+  if(await page.locator('.music-note').count())throw Error('Offscreen emitter still active');
+  await page.getByRole('button',{name:'Paramètres',exact:true}).click();
+  await page.getByLabel('Notes autour de la pochette').uncheck();
+  await page.getByRole('button',{name:'Terminé',exact:true}).click();
+  await widget.scrollIntoViewIfNeeded();
+  await page.waitForTimeout(1000);
+  if(await page.locator('.music-note').count())throw Error('Disabled emitter still active');
+  if(errors.length)throw Error(errors.join('\n'));
+  console.log(JSON.stringify({passed:true,initialCount:count,geometry,errors,checks:['play-pause-play','track-change','440px-and-1080px','controls-clickable','offscreen','reduced-motion','disabled']}));
+}

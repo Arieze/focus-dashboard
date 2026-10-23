@@ -1,0 +1,1262 @@
+{
+ "ambient/env_falling_leaves_side_accent": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "side",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.7656
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - side - accent",
+  "effect": "env_falling_leaves",
+  "tone": "accent"
+ },
+ "ambient/env_falling_leaves_side_yellow": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "side",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.7656
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - side - yellow",
+  "effect": "env_falling_leaves",
+  "tone": "yellow"
+ },
+ "ambient/env_falling_leaves_side_green": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "side",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.7656
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - side - green",
+  "effect": "env_falling_leaves",
+  "tone": "green"
+ },
+ "ambient/env_falling_leaves_side_red": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "side",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.7656
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - side - red",
+  "effect": "env_falling_leaves",
+  "tone": "red"
+ },
+ "ambient/env_falling_leaves_top_accent": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "top",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - top - accent",
+  "effect": "env_falling_leaves",
+  "tone": "accent"
+ },
+ "ambient/env_falling_leaves_top_yellow": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "top",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - top - yellow",
+  "effect": "env_falling_leaves",
+  "tone": "yellow"
+ },
+ "ambient/env_falling_leaves_top_green": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "top",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - top - green",
+  "effect": "env_falling_leaves",
+  "tone": "green"
+ },
+ "ambient/env_falling_leaves_top_red": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "top",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Falling leaves (loop) - top - red",
+  "effect": "env_falling_leaves",
+  "tone": "red"
+ },
+ "ambient/env_fireflies_yellow": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Fireflies (loop) - yellow",
+  "effect": "env_fireflies",
+  "tone": "yellow"
+ },
+ "ambient/env_fireflies_green": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Fireflies (loop) - green",
+  "effect": "env_fireflies",
+  "tone": "green"
+ },
+ "ambient/env_fireflies_blue": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Fireflies (loop) - blue",
+  "effect": "env_fireflies",
+  "tone": "blue"
+ },
+ "ambient/env_embers": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Embers (loop)",
+  "effect": "env_embers",
+  "tone": null
+ },
+ "ambient/env_dust_motes": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Dust motes (loop)",
+  "effect": "env_dust_motes",
+  "tone": null
+ },
+ "ambient/env_air_twinkles_yellow": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Air twinkles (loop) - yellow",
+  "effect": "env_air_twinkles",
+  "tone": "yellow"
+ },
+ "ambient/env_air_twinkles_blue": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Air twinkles (loop) - blue",
+  "effect": "env_air_twinkles",
+  "tone": "blue"
+ },
+ "ambient/env_air_twinkles_purple": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Air twinkles (loop) - purple",
+  "effect": "env_air_twinkles",
+  "tone": "purple"
+ },
+ "ambient/env_petals_red": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Cherry petals (loop) - red",
+  "effect": "env_petals",
+  "tone": "red"
+ },
+ "ambient/env_petals_purple": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Cherry petals (loop) - purple",
+  "effect": "env_petals",
+  "tone": "purple"
+ },
+ "ambient/env_petals_yellow": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Cherry petals (loop) - yellow",
+  "effect": "env_petals",
+  "tone": "yellow"
+ },
+ "ambient/env_dandelion_seeds": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Dandelion seeds (loop)",
+  "effect": "env_dandelion_seeds",
+  "tone": null
+ },
+ "ambient/env_butterflies_purple": {
+  "frames": 32,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Butterflies (loop) - purple",
+  "effect": "env_butterflies",
+  "tone": "purple"
+ },
+ "ambient/env_butterflies_green": {
+  "frames": 32,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Butterflies (loop) - green",
+  "effect": "env_butterflies",
+  "tone": "green"
+ },
+ "ambient/env_butterflies_red": {
+  "frames": 32,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Butterflies (loop) - red",
+  "effect": "env_butterflies",
+  "tone": "red"
+ },
+ "ambient/env_birds": {
+  "frames": 32,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Bird flock (loop)",
+  "effect": "env_birds",
+  "tone": null
+ },
+ "ambient/env_steam_curls": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "ambient",
+  "label": "Steam curls (loop)",
+  "effect": "env_steam_curls",
+  "tone": null
+ },
+ "emotes/env_emote_idea": {
+  "frames": 28,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": false,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Idea bulb",
+  "effect": "env_emote_idea",
+  "tone": null
+ },
+ "emotes/env_emote_alert": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": false,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Alert",
+  "effect": "env_emote_alert",
+  "tone": null
+ },
+ "emotes/env_emote_question": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Confused (loop)",
+  "effect": "env_emote_question",
+  "tone": null
+ },
+ "emotes/env_emote_crying": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Crying tears (loop)",
+  "effect": "env_emote_crying",
+  "tone": null
+ },
+ "emotes/env_emote_music": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Music notes (loop)",
+  "effect": "env_emote_music",
+  "tone": null
+ },
+ "emotes/env_emote_anger": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Anger vein (loop)",
+  "effect": "env_emote_anger",
+  "tone": null
+ },
+ "emotes/env_emote_sweat": {
+  "frames": 32,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Sweat drop (loop)",
+  "effect": "env_emote_sweat",
+  "tone": null
+ },
+ "emotes/env_emote_love_red": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Lovestruck (loop) - red",
+  "effect": "env_emote_love",
+  "tone": "red"
+ },
+ "emotes/env_emote_love_purple": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Lovestruck (loop) - purple",
+  "effect": "env_emote_love",
+  "tone": "purple"
+ },
+ "emotes/env_emote_love_accent": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Lovestruck (loop) - accent",
+  "effect": "env_emote_love",
+  "tone": "accent"
+ },
+ "emotes/env_emote_frustration": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Frustration scribble (loop)",
+  "effect": "env_emote_frustration",
+  "tone": null
+ },
+ "emotes/env_emote_gloom": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "emotes",
+  "label": "Gloom (loop)",
+  "effect": "env_emote_gloom",
+  "tone": null
+ },
+ "water/env_fountain": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Fountain jet (loop)",
+  "effect": "env_fountain",
+  "tone": null
+ },
+ "water/env_drip_blue": {
+  "frames": 28,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": false,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Drip - blue",
+  "effect": "env_drip",
+  "tone": "blue"
+ },
+ "water/env_drip_green": {
+  "frames": 28,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": false,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Drip - green",
+  "effect": "env_drip",
+  "tone": "green"
+ },
+ "water/env_drip_purple": {
+  "frames": 28,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": false,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Drip - purple",
+  "effect": "env_drip",
+  "tone": "purple"
+ },
+ "water/env_puddle_rain": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Puddle rain (loop)",
+  "effect": "env_puddle_rain",
+  "tone": null
+ },
+ "water/env_float_ripples": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Float ripples (loop)",
+  "effect": "env_float_ripples",
+  "tone": null
+ },
+ "water/env_window_rain": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Window rain (loop)",
+  "effect": "env_window_rain",
+  "tone": null
+ },
+ "water/env_waterfall_foam": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Waterfall foam (loop)",
+  "effect": "env_waterfall_foam",
+  "tone": null
+ },
+ "water/env_water_glints": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Water glints (loop)",
+  "effect": "env_water_glints",
+  "tone": null
+ },
+ "water/env_rising_bubbles": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Rising bubbles (loop)",
+  "effect": "env_rising_bubbles",
+  "tone": null
+ },
+ "water/env_shore_wave": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Shore wave (loop)",
+  "effect": "env_shore_wave",
+  "tone": null
+ },
+ "water/env_brook": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "water",
+  "label": "Babbling brook (loop)",
+  "effect": "env_brook",
+  "tone": null
+ },
+ "weather/env_rain": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Rain (loop)",
+  "effect": "env_rain",
+  "tone": null
+ },
+ "weather/env_rain_cloud": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Rain cloud (loop)",
+  "effect": "env_rain_cloud",
+  "tone": null
+ },
+ "weather/env_lightning_flash": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Lightning flash (loop)",
+  "effect": "env_lightning_flash",
+  "tone": null
+ },
+ "weather/env_snowfall": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Snowfall (loop)",
+  "effect": "env_snowfall",
+  "tone": null
+ },
+ "weather/env_hail_side": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "side",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.7656
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Hail (loop) - side",
+  "effect": "env_hail",
+  "tone": null
+ },
+ "weather/env_hail_top": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 128,
+  "cells": {
+   "PNG_1x": 128,
+   "PNG_2x": 256
+  },
+  "loop": true,
+  "view": "top",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Hail (loop) - top",
+  "effect": "env_hail",
+  "tone": null
+ },
+ "weather/env_fog": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 256,
+  "cells": {
+   "PNG_1x": 256,
+   "PNG_2x": 512
+  },
+  "loop": true,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Fog drift (loop)",
+  "effect": "env_fog",
+  "tone": null
+ },
+ "weather/env_wind_gust": {
+  "frames": 24,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": false,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Wind gust",
+  "effect": "env_wind_gust",
+  "tone": null
+ },
+ "weather/env_snow_drift": {
+  "frames": 36,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Blowing snow drift (loop)",
+  "effect": "env_snow_drift",
+  "tone": null
+ },
+ "weather/env_sun_rays": {
+  "frames": 48,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": true,
+  "view": "any",
+  "faces": "right",
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Sun rays (loop)",
+  "effect": "env_sun_rays",
+  "tone": null
+ },
+ "weather/env_rainbow": {
+  "frames": 32,
+  "fps": 24,
+  "cell": 192,
+  "cells": {
+   "PNG_1x": 192,
+   "PNG_2x": 384
+  },
+  "loop": false,
+  "view": "any",
+  "faces": null,
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "genre": "Environment & Emotes",
+  "sub": "weather",
+  "label": "Rainbow",
+  "effect": "env_rainbow",
+  "tone": null
+ }
+}

@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-music-request"
+description = "Contrôler Beefweb sur la boucle locale et ouvrir foobar2000 depuis son chemin Windows fixe."
+commands.allow = ["music_request", "music_albums", "music_play_album"]

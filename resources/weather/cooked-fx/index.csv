@@ -1,0 +1,61 @@
+name,label,genre,sub,frames,fps,loop,cell,view,faces,tone,effect,pivot_x,pivot_y,file
+env_falling_leaves_side_accent,Falling leaves (loop) - side - accent,Environment & Emotes,ambient,48,24,yes,128,side,,accent,env_falling_leaves,0.5,0.7656,ambient/env_falling_leaves_side_accent.png
+env_falling_leaves_side_yellow,Falling leaves (loop) - side - yellow,Environment & Emotes,ambient,48,24,yes,128,side,,yellow,env_falling_leaves,0.5,0.7656,ambient/env_falling_leaves_side_yellow.png
+env_falling_leaves_side_green,Falling leaves (loop) - side - green,Environment & Emotes,ambient,48,24,yes,128,side,,green,env_falling_leaves,0.5,0.7656,ambient/env_falling_leaves_side_green.png
+env_falling_leaves_side_red,Falling leaves (loop) - side - red,Environment & Emotes,ambient,48,24,yes,128,side,,red,env_falling_leaves,0.5,0.7656,ambient/env_falling_leaves_side_red.png
+env_falling_leaves_top_accent,Falling leaves (loop) - top - accent,Environment & Emotes,ambient,48,24,yes,128,top,,accent,env_falling_leaves,0.5,0.5,ambient/env_falling_leaves_top_accent.png
+env_falling_leaves_top_yellow,Falling leaves (loop) - top - yellow,Environment & Emotes,ambient,48,24,yes,128,top,,yellow,env_falling_leaves,0.5,0.5,ambient/env_falling_leaves_top_yellow.png
+env_falling_leaves_top_green,Falling leaves (loop) - top - green,Environment & Emotes,ambient,48,24,yes,128,top,,green,env_falling_leaves,0.5,0.5,ambient/env_falling_leaves_top_green.png
+env_falling_leaves_top_red,Falling leaves (loop) - top - red,Environment & Emotes,ambient,48,24,yes,128,top,,red,env_falling_leaves,0.5,0.5,ambient/env_falling_leaves_top_red.png
+env_fireflies_yellow,Fireflies (loop) - yellow,Environment & Emotes,ambient,48,24,yes,128,any,,yellow,env_fireflies,0.5,0.5,ambient/env_fireflies_yellow.png
+env_fireflies_green,Fireflies (loop) - green,Environment & Emotes,ambient,48,24,yes,128,any,,green,env_fireflies,0.5,0.5,ambient/env_fireflies_green.png
+env_fireflies_blue,Fireflies (loop) - blue,Environment & Emotes,ambient,48,24,yes,128,any,,blue,env_fireflies,0.5,0.5,ambient/env_fireflies_blue.png
+env_embers,Embers (loop),Environment & Emotes,ambient,36,24,yes,128,any,,,env_embers,0.5,0.5,ambient/env_embers.png
+env_dust_motes,Dust motes (loop),Environment & Emotes,ambient,48,24,yes,128,any,,,env_dust_motes,0.5,0.5,ambient/env_dust_motes.png
+env_air_twinkles_yellow,Air twinkles (loop) - yellow,Environment & Emotes,ambient,36,24,yes,128,any,,yellow,env_air_twinkles,0.5,0.5,ambient/env_air_twinkles_yellow.png
+env_air_twinkles_blue,Air twinkles (loop) - blue,Environment & Emotes,ambient,36,24,yes,128,any,,blue,env_air_twinkles,0.5,0.5,ambient/env_air_twinkles_blue.png
+env_air_twinkles_purple,Air twinkles (loop) - purple,Environment & Emotes,ambient,36,24,yes,128,any,,purple,env_air_twinkles,0.5,0.5,ambient/env_air_twinkles_purple.png
+env_petals_red,Cherry petals (loop) - red,Environment & Emotes,ambient,36,24,yes,192,any,right,red,env_petals,0.5,0.5,ambient/env_petals_red.png
+env_petals_purple,Cherry petals (loop) - purple,Environment & Emotes,ambient,36,24,yes,192,any,right,purple,env_petals,0.5,0.5,ambient/env_petals_purple.png
+env_petals_yellow,Cherry petals (loop) - yellow,Environment & Emotes,ambient,36,24,yes,192,any,right,yellow,env_petals,0.5,0.5,ambient/env_petals_yellow.png
+env_dandelion_seeds,Dandelion seeds (loop),Environment & Emotes,ambient,48,24,yes,128,any,right,,env_dandelion_seeds,0.5,0.5,ambient/env_dandelion_seeds.png
+env_butterflies_purple,Butterflies (loop) - purple,Environment & Emotes,ambient,32,24,yes,128,any,,purple,env_butterflies,0.5,0.5,ambient/env_butterflies_purple.png
+env_butterflies_green,Butterflies (loop) - green,Environment & Emotes,ambient,32,24,yes,128,any,,green,env_butterflies,0.5,0.5,ambient/env_butterflies_green.png
+env_butterflies_red,Butterflies (loop) - red,Environment & Emotes,ambient,32,24,yes,128,any,,red,env_butterflies,0.5,0.5,ambient/env_butterflies_red.png
+env_birds,Bird flock (loop),Environment & Emotes,ambient,32,24,yes,192,any,right,,env_birds,0.5,0.5,ambient/env_birds.png
+env_steam_curls,Steam curls (loop),Environment & Emotes,ambient,36,24,yes,128,any,,,env_steam_curls,0.5,0.5,ambient/env_steam_curls.png
+env_emote_idea,Idea bulb,Environment & Emotes,emotes,28,24,no,128,any,,,env_emote_idea,0.5,0.5,emotes/env_emote_idea.png
+env_emote_alert,Alert,Environment & Emotes,emotes,24,24,no,128,any,,,env_emote_alert,0.5,0.5,emotes/env_emote_alert.png
+env_emote_question,Confused (loop),Environment & Emotes,emotes,36,24,yes,128,any,,,env_emote_question,0.5,0.5,emotes/env_emote_question.png
+env_emote_crying,Crying tears (loop),Environment & Emotes,emotes,36,24,yes,128,any,,,env_emote_crying,0.5,0.5,emotes/env_emote_crying.png
+env_emote_music,Music notes (loop),Environment & Emotes,emotes,48,24,yes,128,any,right,,env_emote_music,0.5,0.5,emotes/env_emote_music.png
+env_emote_anger,Anger vein (loop),Environment & Emotes,emotes,24,24,yes,128,any,,,env_emote_anger,0.5,0.5,emotes/env_emote_anger.png
+env_emote_sweat,Sweat drop (loop),Environment & Emotes,emotes,32,24,yes,128,any,right,,env_emote_sweat,0.5,0.5,emotes/env_emote_sweat.png
+env_emote_love_red,Lovestruck (loop) - red,Environment & Emotes,emotes,36,24,yes,128,any,,red,env_emote_love,0.5,0.5,emotes/env_emote_love_red.png
+env_emote_love_purple,Lovestruck (loop) - purple,Environment & Emotes,emotes,36,24,yes,128,any,,purple,env_emote_love,0.5,0.5,emotes/env_emote_love_purple.png
+env_emote_love_accent,Lovestruck (loop) - accent,Environment & Emotes,emotes,36,24,yes,128,any,,accent,env_emote_love,0.5,0.5,emotes/env_emote_love_accent.png
+env_emote_frustration,Frustration scribble (loop),Environment & Emotes,emotes,24,24,yes,128,any,,,env_emote_frustration,0.5,0.5,emotes/env_emote_frustration.png
+env_emote_gloom,Gloom (loop),Environment & Emotes,emotes,36,24,yes,128,any,,,env_emote_gloom,0.5,0.5,emotes/env_emote_gloom.png
+env_fountain,Fountain jet (loop),Environment & Emotes,water,24,24,yes,128,any,,,env_fountain,0.5,0.5,water/env_fountain.png
+env_drip_blue,Drip - blue,Environment & Emotes,water,28,24,no,128,any,,blue,env_drip,0.5,0.5,water/env_drip_blue.png
+env_drip_green,Drip - green,Environment & Emotes,water,28,24,no,128,any,,green,env_drip,0.5,0.5,water/env_drip_green.png
+env_drip_purple,Drip - purple,Environment & Emotes,water,28,24,no,128,any,,purple,env_drip,0.5,0.5,water/env_drip_purple.png
+env_puddle_rain,Puddle rain (loop),Environment & Emotes,water,36,24,yes,128,any,,,env_puddle_rain,0.5,0.5,water/env_puddle_rain.png
+env_float_ripples,Float ripples (loop),Environment & Emotes,water,36,24,yes,128,any,,,env_float_ripples,0.5,0.5,water/env_float_ripples.png
+env_window_rain,Window rain (loop),Environment & Emotes,water,36,24,yes,128,any,,,env_window_rain,0.5,0.5,water/env_window_rain.png
+env_waterfall_foam,Waterfall foam (loop),Environment & Emotes,water,24,24,yes,192,any,,,env_waterfall_foam,0.5,0.5,water/env_waterfall_foam.png
+env_water_glints,Water glints (loop),Environment & Emotes,water,36,24,yes,192,any,,,env_water_glints,0.5,0.5,water/env_water_glints.png
+env_rising_bubbles,Rising bubbles (loop),Environment & Emotes,water,48,24,yes,128,any,,,env_rising_bubbles,0.5,0.5,water/env_rising_bubbles.png
+env_shore_wave,Shore wave (loop),Environment & Emotes,water,48,24,yes,192,any,right,,env_shore_wave,0.5,0.5,water/env_shore_wave.png
+env_brook,Babbling brook (loop),Environment & Emotes,water,48,24,yes,192,any,right,,env_brook,0.5,0.5,water/env_brook.png
+env_rain,Rain (loop),Environment & Emotes,weather,24,24,yes,192,any,right,,env_rain,0.5,0.5,weather/env_rain.png
+env_rain_cloud,Rain cloud (loop),Environment & Emotes,weather,36,24,yes,128,any,,,env_rain_cloud,0.5,0.5,weather/env_rain_cloud.png
+env_lightning_flash,Lightning flash (loop),Environment & Emotes,weather,48,24,yes,192,any,,,env_lightning_flash,0.5,0.5,weather/env_lightning_flash.png
+env_snowfall,Snowfall (loop),Environment & Emotes,weather,48,24,yes,192,any,,,env_snowfall,0.5,0.5,weather/env_snowfall.png
+env_hail_side,Hail (loop) - side,Environment & Emotes,weather,24,24,yes,128,side,,,env_hail,0.5,0.7656,weather/env_hail_side.png
+env_hail_top,Hail (loop) - top,Environment & Emotes,weather,24,24,yes,128,top,,,env_hail,0.5,0.5,weather/env_hail_top.png
+env_fog,Fog drift (loop),Environment & Emotes,weather,48,24,yes,256,any,,,env_fog,0.5,0.5,weather/env_fog.png
+env_wind_gust,Wind gust,Environment & Emotes,weather,24,24,no,192,any,right,,env_wind_gust,0.5,0.5,weather/env_wind_gust.png
+env_snow_drift,Blowing snow drift (loop),Environment & Emotes,weather,36,24,yes,192,any,right,,env_snow_drift,0.5,0.5,weather/env_snow_drift.png
+env_sun_rays,Sun rays (loop),Environment & Emotes,weather,48,24,yes,192,any,right,,env_sun_rays,0.5,0.5,weather/env_sun_rays.png
+env_rainbow,Rainbow,Environment & Emotes,weather,32,24,no,192,any,,,env_rainbow,0.5,0.5,weather/env_rainbow.png

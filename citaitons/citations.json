@@ -1,0 +1,1462 @@
+[
+  {
+    "text": "Le génie, c’est un pour cent d’inspiration et quatre-vingt-dix-neuf pour cent de transpiration.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "On peut observer beaucoup de choses simplement en regardant.",
+    "author": "Yogi Berra"
+  },
+  {
+    "text": "Une maison divisée contre elle-même ne peut tenir debout.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Les difficultés augmentent à mesure que l’on approche du but.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "Ton destin est entre tes mains et celles de personne d’autre.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "Sois le chef, mais jamais le maître.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "Rien ne se produit sans que nous l’ayons d’abord rêvé.",
+    "author": "Carl Sandburg"
+  },
+  {
+    "text": "Bien commencer, c’est avoir fait la moitié du chemin.",
+    "author": "Aristote"
+  },
+  {
+    "text": "La vie est une expérience d’apprentissage, à condition d’en tirer des leçons.",
+    "author": "Yogi Berra"
+  },
+  {
+    "text": "La complaisance envers soi-même est fatale au progrès.",
+    "author": "Margaret Sangster"
+  },
+  {
+    "text": "La paix vient de l’intérieur. Ne la cherche pas à l’extérieur.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Ce que tu donnes est ce que tu reçois.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "Nous ne pouvons apprendre à aimer qu’en aimant.",
+    "author": "Iris Murdoch"
+  },
+  {
+    "text": "La vie est changement. Grandir est un choix. Choisis avec sagesse.",
+    "author": "Karen Clark"
+  },
+  {
+    "text": "Tu le verras quand tu y croiras.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Pour guider les autres, marche derrière eux.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "Celui qui ne possède rien ne peut rien perdre.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "Une difficulté n’est qu’une occasion en tenue de travail.",
+    "author": "Henry J. Kaiser"
+  },
+  {
+    "text": "Pierre qui roule n’amasse pas mousse.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "Les idées sont le point de départ de toutes les fortunes.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Dans la vie, tout est une question de chance.",
+    "author": "Donald Trump"
+  },
+  {
+    "text": "Ne rien faire vaut mieux que s’affairer à ne rien faire.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "Fais-toi confiance. Tu en sais plus que tu ne le crois.",
+    "author": "Benjamin Spock"
+  },
+  {
+    "text": "Étudie le passé si tu veux comprendre l’avenir.",
+    "author": "Confucius"
+  },
+  {
+    "text": "D’erreur en erreur, on découvre la vérité tout entière.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "text": "Bien faire vaut mieux que bien dire.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Vois plus grand que tes capacités, puis apprends à te dépasser.",
+    "author": "Ella Williams"
+  },
+  {
+    "text": "Œuvre à ton propre salut. Ne dépends pas des autres.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Un aujourd’hui vaut deux demains.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Une fois que tu choisis l’espoir, tout devient possible.",
+    "author": "Christopher Reeve"
+  },
+  {
+    "text": "Dieu emprunte toujours le chemin le plus simple.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "On avance vers la réussite à travers ses échecs.",
+    "author": "Charles Kettering"
+  },
+  {
+    "text": "Le savoir est un trésor qui accompagne son propriétaire partout.",
+    "author": "Proverbe chinois"
+  },
+  {
+    "text": "Sois tel que tu souhaites paraître.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Le monde est toujours en mouvement.",
+    "author": "V. Naipaul"
+  },
+  {
+    "text": "Ne confonds jamais activité et accomplissement.",
+    "author": "John Wooden"
+  },
+  {
+    "text": "Ce qui t’inquiète te domine.",
+    "author": "Haddon Robinson"
+  },
+  {
+    "text": "On affronte l’avenir avec son passé.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "Les objectifs sont le combustible de l’accomplissement.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Qui sème la vertu récolte l’honneur.",
+    "author": "Léonard de Vinci"
+  },
+  {
+    "text": "Sois bienveillant chaque fois que c’est possible. C’est toujours possible.",
+    "author": "Dalaï-Lama"
+  },
+  {
+    "text": "Les paroles ne font pas cuire le riz.",
+    "author": "Proverbe chinois"
+  },
+  {
+    "text": "Celui qui se croit capable l’est.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Un objectif sans plan n’est qu’un souhait.",
+    "author": "Larry Elder"
+  },
+  {
+    "text": "Pour réussir, nous devons d’abord croire que nous le pouvons.",
+    "author": "Michael Korda"
+  },
+  {
+    "text": "Apprends d’hier, vis aujourd’hui, espère pour demain.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Une mauvaise herbe n’est qu’une fleur déguisée.",
+    "author": "James Lowell"
+  },
+  {
+    "text": "Fais-le ou ne le fais pas. Il n’y a pas d’essai.",
+    "author": "Yoda"
+  },
+  {
+    "text": "Toute véritable audace naît en soi.",
+    "author": "Harriet Beecher Stowe"
+  },
+  {
+    "text": "Le meilleur professeur est l’expérience tirée des échecs.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "Imagine comme la physique serait difficile si les particules pouvaient penser.",
+    "author": "Murray Gell-Mann"
+  },
+  {
+    "text": "L’amour est une fleur qu’il faut laisser grandir.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "N’attends pas. Le moment ne sera jamais idéal.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Le temps est le plus sage de tous les conseillers.",
+    "author": "Périclès"
+  },
+  {
+    "text": "Il faut donner avant de recevoir.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "La sagesse commence dans l’émerveillement.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Sans courage, la sagesse ne porte aucun fruit.",
+    "author": "Baltasar Gracian"
+  },
+  {
+    "text": "Le changement est agréable en toute chose.",
+    "author": "Aristote"
+  },
+  {
+    "text": "Ce que tu crains exige une action pour être surmonté.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "Lorsque les résultats dépassent l’ambition, cela s’appelle la réussite.",
+    "author": "Cullen Hightower"
+  },
+  {
+    "text": "Quand les actes parlent, les mots ne sont rien.",
+    "author": "Proverbe africain"
+  },
+  {
+    "text": "La véritable magie des relations réside dans l’absence de jugement envers autrui.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Je ne pense jamais à l’avenir. Il arrive bien assez vite.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "C’est en faisant que l’on acquiert le savoir-faire.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "La sagesse est la part suprême du bonheur.",
+    "author": "Sophocle"
+  },
+  {
+    "text": "Je crois que chaque personne naît avec un talent.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Les principes importants peuvent, et doivent, rester inflexibles.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Entreprendre une nouvelle action apporte une force nouvelle.",
+    "author": "Richard Evans"
+  },
+  {
+    "text": "Les années enseignent bien des choses que les jours ignorent.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Notre méfiance nous coûte très cher.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Tous connaissent le chemin ; peu le parcourent réellement.",
+    "author": "Bodhidharma"
+  },
+  {
+    "text": "Un grand talent trouve son bonheur dans l’action.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "La confiance en soi est la voie la meilleure et la plus sûre.",
+    "author": "Michel-Ange"
+  },
+  {
+    "text": "Le courage consiste à aller d’échec en échec sans perdre son enthousiasme.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Les deux guerriers les plus puissants sont la patience et le temps.",
+    "author": "Léon Tolstoï"
+  },
+  {
+    "text": "Prévois le difficile en t’occupant de ce qui est facile.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "Ceux qui sont libérés du ressentiment trouvent assurément la paix.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Une courte parole contient souvent beaucoup de sagesse.",
+    "author": "Sophocle"
+  },
+  {
+    "text": "Ne fais que ce que ton cœur te dicte.",
+    "author": "Diana Spencer"
+  },
+  {
+    "text": "La vie est mouvement : nous respirons, mangeons, marchons, bougeons !",
+    "author": "John Pierrakos"
+  },
+  {
+    "text": "Personne ne peut te faire sentir inférieur sans ton consentement.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Défends tes limites, et elles seront assurément les tiennes.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "La chance naît de la rencontre entre la préparation et l’occasion.",
+    "author": "Sénèque"
+  },
+  {
+    "text": "La victoire appartient aux plus persévérants.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "Aime tout le monde, fais confiance à quelques-uns, ne nuis à personne.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "Pour gagner, il faut s’attendre à gagner.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "Un objectif est un rêve assorti d’une échéance.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Tu peux le faire si tu crois pouvoir le faire !",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Fixe-toi des objectifs élevés et ne t’arrête pas avant de les atteindre.",
+    "author": "Bo Jackson"
+  },
+  {
+    "text": "Souris, respire et avance doucement.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "Personne ne croira en toi si tu ne crois pas en toi-même.",
+    "author": "Liberace"
+  },
+  {
+    "text": "Fais plus que rêver : travaille.",
+    "author": "William Arthur Ward"
+  },
+  {
+    "text": "Personne n’est jamais devenu sage par hasard.",
+    "author": "Sénèque"
+  },
+  {
+    "text": "Celui qui a le vertige croit que le monde tourne.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "Ne gâche pas le présent avec un passé abîmé.",
+    "author": "Ellen Gilchrist"
+  },
+  {
+    "text": "Fais quelque chose de merveilleux : d’autres pourraient t’imiter.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "Fais chaque jour une chose qui te fait peur.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Si tu ne peux garder le silence, sois brillant et réfléchi.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "Qui regarde à l’extérieur rêve ; qui regarde à l’intérieur s’éveille.",
+    "author": "Carl Jung"
+  },
+  {
+    "text": "Nous devenons ce que nous pensons.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "La réponse la plus courte, c’est l’action.",
+    "author": "Lord Herbert"
+  },
+  {
+    "text": "Toutes nos connaissances trouvent leur origine dans nos perceptions.",
+    "author": "Léonard de Vinci"
+  },
+  {
+    "text": "Faire confiance à notre intuition nous évite souvent un désastre.",
+    "author": "Anne Wilson Schaef"
+  },
+  {
+    "text": "La vérité est puissante et elle finit par l’emporter.",
+    "author": "Sojourner Truth"
+  },
+  {
+    "text": "Éclaire demain avec aujourd’hui !",
+    "author": "Elizabeth Browning"
+  },
+  {
+    "text": "Le silence est une clôture autour de la sagesse.",
+    "author": "Proverbe allemand"
+  },
+  {
+    "text": "La société développe l’esprit, mais seule la contemplation forme le génie.",
+    "author": "Madame de Stael"
+  },
+  {
+    "text": "Les choses les plus simples sont souvent les plus vraies.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "Hier, j’ai osé lutter. Aujourd’hui, j’ose gagner.",
+    "author": "Bernadette Devlin"
+  },
+  {
+    "text": "Aucun prétexte ne te dispensera d’assumer ta responsabilité.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Si tu peux le rêver, tu peux le faire.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Mieux vaut bien voyager que parvenir à destination.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "La vie se rétrécit ou s’élargit à la mesure de notre courage.",
+    "author": "Anaïs Nin"
+  },
+  {
+    "text": "Tu dois croire en toi-même.",
+    "author": "Sun Tzu"
+  },
+  {
+    "text": "Notre intention crée notre réalité.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Le silence est un ami fidèle qui ne trahit jamais.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Le caractère se forme dans le courant de la vie.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "De petits glands naissent de puissants chênes.",
+    "author": "Proverbe américain"
+  },
+  {
+    "text": "Tu ne peux arrêter les vagues, mais tu peux apprendre à surfer.",
+    "author": "Jon Kabat-Zinn"
+  },
+  {
+    "text": "La réalité ne se conforme pas à l’idéal, mais le confirme.",
+    "author": "Gustave Flaubert"
+  },
+  {
+    "text": "Parle bas si tu parles d’amour.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "La transformation ne se produit pas dans le vide : elle naît de nos liens directs et indirects avec ceux qui nous entourent.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "La réalité laisse beaucoup de place à l’imagination.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "Le meilleur remède à la colère est d’attendre.",
+    "author": "Sénèque"
+  },
+  {
+    "text": "Grandir porte en soi le germe du bonheur.",
+    "author": "Pearl Buck"
+  },
+  {
+    "text": "Rien ne renforce autant l’autorité que le silence.",
+    "author": "Léonard de Vinci"
+  },
+  {
+    "text": "Où que tu ailles, vas-y de tout ton cœur.",
+    "author": "Confucius"
+  },
+  {
+    "text": "La seule chose vraiment précieuse est l’intuition.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "La chance est un autre nom de la ténacité dans la poursuite d’un but.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Les arcs-en-ciel sont les excuses d’un ciel en colère.",
+    "author": "Sylvia Voirol"
+  },
+  {
+    "text": "Le temps est la chose la plus précieuse que l’on puisse dépenser.",
+    "author": "Théophraste"
+  },
+  {
+    "text": "Quoi qu’il arrive, assume ta responsabilité.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "L’expérience est simplement le nom que nous donnons à nos erreurs.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Je pense, et c’est tout ce que je suis.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Si la chaussure ne convient pas, faut-il changer le pied ?",
+    "author": "Gloria Steinem"
+  },
+  {
+    "text": "Chaque jour apporte ses propres cadeaux.",
+    "author": "Marc Aurèle"
+  },
+  {
+    "text": "À force de nous arrêter pour réfléchir, nous manquons souvent l’occasion.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "La vie ne consiste pas à se trouver, mais à se créer.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "Pour faire entrer quelque chose dans ta vie, imagine que c’est déjà là.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "Commence à tisser et Dieu te donnera le fil.",
+    "author": "Proverbe allemand"
+  },
+  {
+    "text": "Plus tu te connais, plus tu te pardonnes.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Sans foi, rien n’est possible. Avec elle, rien n’est impossible.",
+    "author": "Mary Bethune"
+  },
+  {
+    "text": "Dès que nous acceptons nos limites, nous les dépassons.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Ce que nous attendons avec confiance devient notre propre prophétie autoréalisatrice.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Tout ce que tu peux imaginer est réel.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "La peur est une chambre noire où se développent les négatifs.",
+    "author": "Usman Asif"
+  },
+  {
+    "text": "La sagesse la plus vraie est une détermination résolue.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "La vie est une fleur dont l’amour est le miel.",
+    "author": "Victor Hugo"
+  },
+  {
+    "text": "La liberté est le droit de vivre comme nous le souhaitons.",
+    "author": "Épictète"
+  },
+  {
+    "text": "N’ignore jamais une intuition, mais ne crois jamais qu’elle suffise.",
+    "author": "Robert Heller"
+  },
+  {
+    "text": "La perte n’est que changement, et le changement fait la joie de la nature.",
+    "author": "Marc Aurèle"
+  },
+  {
+    "text": "Une personne ne se sait spéciale que si tu le lui dis.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "Il n’y a pas de chemin vers le bonheur : le bonheur est le chemin.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "Celui qui parle davantage s’épuise plus vite.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "Celui qui sait se contenter de ce qu’il a est riche.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "Ce que nous accomplissons intérieurement transforme la réalité extérieure.",
+    "author": "Plutarque"
+  },
+  {
+    "text": "Notre force naît de nos faiblesses.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Nous devons devenir le changement que nous voulons voir.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Le bonheur se trouve dans l’action, pas seulement dans la possession.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Nous choisissons notre destin par notre façon de traiter les autres.",
+    "author": "Wit"
+  },
+  {
+    "text": "Dans une avalanche, aucun flocon ne se sent jamais responsable.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "La fortune sourit aux audacieux.",
+    "author": "Virgile"
+  },
+  {
+    "text": "Je ne crois qu’à une chose : la puissance de la volonté humaine.",
+    "author": "Joseph Stalin"
+  },
+  {
+    "text": "Le meilleur moyen de sortir d’une épreuve est toujours de la traverser.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "L’esprit désapprend difficilement ce qu’il a appris depuis longtemps.",
+    "author": "Sénèque"
+  },
+  {
+    "text": "Je détruis mes ennemis en faisant d’eux mes amis.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Aucun jardin n’est sans mauvaises herbes.",
+    "author": "Thomas Fuller"
+  },
+  {
+    "text": "Il n’y a d’échec que lorsque l’on cesse d’essayer.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "Des paroles bienveillantes ouvrent une porte de fer.",
+    "author": "Proverbe turc"
+  },
+  {
+    "text": "Les problèmes ne sont que des occasions munies d’épines.",
+    "author": "Hugh Miller"
+  },
+  {
+    "text": "La vie n’est qu’une occasion de faire grandir son âme.",
+    "author": "A. Powell Davies"
+  },
+  {
+    "text": "On ne franchit les montagnes que par des chemins sinueux.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "Que le jardin de l’éveil de nos cœurs s’épanouisse en centaines de fleurs.",
+    "author": "Thich Nhat Hanh"
+  },
+  {
+    "text": "Grands sont ceux qui voient que l’esprit dépasse toute force matérielle et que les pensées gouvernent le monde.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Reste fidèle aux rêves de ta jeunesse.",
+    "author": "Friedrich von Schiller"
+  },
+  {
+    "text": "Tu n’es jamais perdant tant que tu continues d’essayer.",
+    "author": "Mike Ditka"
+  },
+  {
+    "text": "La science est le savoir organisé. La sagesse est la vie organisée.",
+    "author": "Immanuel Kant"
+  },
+  {
+    "text": "Savoir ne suffit pas : il faut mettre en pratique !",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "De fortes convictions conquièrent les esprits forts, puis les rendent plus forts encore.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "L’automne est un deuxième printemps où chaque feuille est une fleur.",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "Si tu t’abandonnes au vent, tu peux te laisser porter par lui.",
+    "author": "Toni Morrison"
+  },
+  {
+    "text": "Tourne-toi vers le soleil et tu ne verras plus l’ombre.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Écris tes projets au crayon et confie la gomme à Dieu.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "L’inspiration existe, mais elle doit nous trouver au travail.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Choisis des combats assez grands pour compter, assez petits pour être gagnés.",
+    "author": "Jonathan Kozol"
+  },
+  {
+    "text": "Ne te trahis pas : tu es tout ce que tu possèdes.",
+    "author": "Janis Joplin"
+  },
+  {
+    "text": "Ce qui distingue tes capacités de celles des autres, c’est de savoir te mettre à leur place et d’essayer vraiment.",
+    "author": "Leonardo Ruiz"
+  },
+  {
+    "text": "Les difficultés révèlent ce qu’est une personne.",
+    "author": "Épictète"
+  },
+  {
+    "text": "Quand tu doutes de ta force, tu donnes de la force à ton doute.",
+    "author": "Honoré de Balzac"
+  },
+  {
+    "text": "La cause est cachée. L’effet est visible de tous.",
+    "author": "Ovide"
+  },
+  {
+    "text": "Une question prudente est la moitié de la sagesse.",
+    "author": "Francis Bacon"
+  },
+  {
+    "text": "Le chemin de la réussite passe par une action intense et déterminée.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "Je laisse mon intuition guider mon chemin.",
+    "author": "Manuel Puig"
+  },
+  {
+    "text": "La nature nous retire toute faculté que nous n’utilisons pas.",
+    "author": "William R. Inge"
+  },
+  {
+    "text": "Si tu veux être écrivain, écris.",
+    "author": "Épictète"
+  },
+  {
+    "text": "Il n’y a pas de chemin vers la prospérité : la prospérité est le chemin.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Soit tu diriges ta journée, soit elle te dirige.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "Mieux vaut ignorer une chose que la connaître à moitié.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "Suis ton instinct : c’est là que se manifeste la véritable sagesse.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "On n’a jamais fabriqué un bon couteau avec du mauvais acier.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Pour accomplir de grandes choses, il faut rêver autant qu’agir.",
+    "author": "Anatole France"
+  },
+  {
+    "text": "La patience est la compagne de la sagesse.",
+    "author": "Saint Augustin"
+  },
+  {
+    "text": "L’homme libre est celui qui ne craint pas d’aller jusqu’au bout de sa pensée.",
+    "author": "Léon Blum"
+  },
+  {
+    "text": "Pour apprécier la vie, il faut savoir effleurer bien des choses.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "Pour voler, nous avons besoin de résistance.",
+    "author": "Maya Lin"
+  },
+  {
+    "text": "Le cœur a ses raisons que la raison ne connaît point.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "Sois aussi grand dans tes actes que dans tes pensées.",
+    "author": "William Shakespeare"
+  },
+  {
+    "text": "L’imagination gouverne le monde.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "Les paroles bienveillantes coûtent peu, mais accomplissent beaucoup.",
+    "author": "Blaise Pascal"
+  },
+  {
+    "text": "Il n’est pas de plus grand dommage que le temps perdu.",
+    "author": "Michel-Ange"
+  },
+  {
+    "text": "L’intuition indique à l’esprit qui réfléchit où regarder ensuite.",
+    "author": "Jonas Salk"
+  },
+  {
+    "text": "Les peurs ne sont rien de plus qu’un état d’esprit.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Un voyage de mille lieues commence par un premier pas.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "L’efficience consiste à bien faire les choses ; l’efficacité, à faire les bonnes choses.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "Brille d’un feu qui ne s’éteint jamais.",
+    "author": "Luisa Sigea"
+  },
+  {
+    "text": "Ne pleure pas parce que c’est terminé. Souris parce que c’est arrivé.",
+    "author": "Dr. Seuss"
+  },
+  {
+    "text": "Non est plus facile à faire. Oui est plus facile à dire.",
+    "author": "Jason Fried"
+  },
+  {
+    "text": "Avoir subi un tort n’est rien, sauf si tu continues à t’en souvenir.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Les coups de circuit d’hier ne gagnent pas les matchs d’aujourd’hui.",
+    "author": "Babe Ruth"
+  },
+  {
+    "text": "Le silence est profond comme l’éternité ; la parole, superficielle comme le temps.",
+    "author": "Carlyle"
+  },
+  {
+    "text": "Ne vous étouffez pas mutuellement. Personne ne peut grandir dans l’ombre.",
+    "author": "Leo F. Buscaglia"
+  },
+  {
+    "text": "Une fourmi en mouvement fait plus qu’un bœuf assoupi.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "On ne peut serrer une main avec un poing fermé.",
+    "author": "Indira Gandhi"
+  },
+  {
+    "text": "Une bonne décision repose sur le savoir, et non sur les chiffres.",
+    "author": "Platon"
+  },
+  {
+    "text": "Les prudents se trompent rarement.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Sans lutte, il n’y a pas de progrès.",
+    "author": "Frederick Douglass"
+  },
+  {
+    "text": "Là où l’amour est grand, les miracles sont toujours présents.",
+    "author": "Willa Cather"
+  },
+  {
+    "text": "Le temps que l’on prend plaisir à perdre n’est pas du temps perdu.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "Chaque problème tient un cadeau pour toi entre ses mains.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "La tristesse s’envole sur les ailes du temps.",
+    "author": "Jean de la Fontaine"
+  },
+  {
+    "text": "J’ai souvent regretté mes paroles, jamais mon silence.",
+    "author": "Publilius Syrus"
+  },
+  {
+    "text": "Ne remets jamais à demain ce que tu peux faire aujourd’hui.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "text": "Les esprits sont comme les parachutes : ils ne fonctionnent que lorsqu’ils sont ouverts.",
+    "author": "Thomas Dewar"
+  },
+  {
+    "text": "Quand une personne fait de son mieux, que demander de plus ?",
+    "author": "George Patton"
+  },
+  {
+    "text": "Le secret de la réussite est la constance dans le but.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "La vie est un cheminement, pas une halte.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Toutes les saisons sont belles pour celui qui porte le bonheur en lui.",
+    "author": "Horace Friess"
+  },
+  {
+    "text": "Pour éviter la critique, ne fais rien, ne dis rien, ne sois rien.",
+    "author": "Elbert Hubbard"
+  },
+  {
+    "text": "Tout change ; rien ne périt.",
+    "author": "Ovide"
+  },
+  {
+    "text": "L’absence rend le cœur plus aimant.",
+    "author": "Haynes Bayly"
+  },
+  {
+    "text": "L’imagination est le cerf-volant que l’on peut faire voler le plus haut.",
+    "author": "Lauren Bacall"
+  },
+  {
+    "text": "Le savoir commence par la découverte de quelque chose que nous ne comprenons pas.",
+    "author": "Frank Herbert"
+  },
+  {
+    "text": "L’amour ne fait pas tourner le monde ; il rend le voyage digne d’être vécu.",
+    "author": "Elizabeth Browning"
+  },
+  {
+    "text": "Quand on a éliminé l’impossible, ce qui reste, aussi improbable soit-il, doit être la vérité.",
+    "author": "Arthur Conan Doyle"
+  },
+  {
+    "text": "Le bon bois ne pousse pas sans effort : plus le vent est fort, plus les arbres deviennent solides.",
+    "author": "J. Willard Marriott"
+  },
+  {
+    "text": "Je crois que nous sommes fondamentalement semblables et que nous avons le même potentiel de départ.",
+    "author": "Dalaï-Lama"
+  },
+  {
+    "text": "Les vents et les vagues sont toujours du côté des navigateurs les plus habiles.",
+    "author": "Edward Gibbon"
+  },
+  {
+    "text": "L’avenir appartient à ceux qui croient à la beauté de leurs rêves.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "La force ne vient pas des capacités physiques, mais d’une volonté indomptable.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "Chaque malheur rencontré porte en lui la graine de la chance de demain.",
+    "author": "Og Mandino"
+  },
+  {
+    "text": "Pardonner, c’est libérer un prisonnier et découvrir que ce prisonnier, c’était soi-même.",
+    "author": "Lewis B. Smedes"
+  },
+  {
+    "text": "La séparation est la grande misère du monde ; la compassion est sa véritable force.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "En croyant passionnément à quelque chose qui n’existe pas encore, nous le créons.",
+    "author": "Nikos Kazantzakis"
+  },
+  {
+    "text": "Tous les grands talents avec lesquels j’ai travaillé sont animés par un rêve personnel.",
+    "author": "John Eliot"
+  },
+  {
+    "text": "L’un des avantages du désordre est de faire constamment des découvertes passionnantes.",
+    "author": "A. A. Milne"
+  },
+  {
+    "text": "Je ne vois jamais ce qui a été fait ; je ne vois que ce qui reste à faire.",
+    "author": "Marie Curie"
+  },
+  {
+    "text": "Commence à vivre dès maintenant et considère chaque jour comme une vie distincte.",
+    "author": "Sénèque"
+  },
+  {
+    "text": "Si tu ne sais pas où tu vas, tu finiras probablement ailleurs.",
+    "author": "Lawrence Peter"
+  },
+  {
+    "text": "L’essentiel n’est pas de tout savoir, mais d’apprécier ce que l’on apprend.",
+    "author": "Hannah More"
+  },
+  {
+    "text": "L’oiseau de paradis ne se pose que sur la main qui ne cherche pas à le saisir.",
+    "author": "John Berry"
+  },
+  {
+    "text": "Pense comme un sage, mais exprime-toi dans la langue de tous.",
+    "author": "William Yeats"
+  },
+  {
+    "text": "Exerce-toi d’abord aux petites choses, puis passe aux plus grandes.",
+    "author": "Épictète"
+  },
+  {
+    "text": "Aucun vent n’est favorable à celui qui ne sait vers quel port il navigue.",
+    "author": "Sénèque"
+  },
+  {
+    "text": "Se tourmenter pour ce que l’on n’a pas, c’est gaspiller ce que l’on a.",
+    "author": "Ken S. Keyes"
+  },
+  {
+    "text": "Si nous faisions tout ce dont nous sommes capables, nous nous étonnerions nous-mêmes.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "Dans la vie, rien n’est à craindre, tout est à comprendre.",
+    "author": "Marie Curie"
+  },
+  {
+    "text": "Ceux qui réussissent posent de meilleures questions et obtiennent donc de meilleures réponses.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "La vie est un processus. Nous sommes un processus. L’univers est un processus.",
+    "author": "Anne Schaef"
+  },
+  {
+    "text": "Je crois que nous finissons par découvrir qui nous sommes, puis vivons avec cette découverte.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Ceux qui nous écoutent nous apprennent ce que nous avons dit.",
+    "author": "Kenneth Patton"
+  },
+  {
+    "text": "Un peu de savoir mis en pratique vaut infiniment plus qu’un grand savoir inactif.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "text": "Les portes que nous ouvrons et fermons chaque jour décident de la vie que nous menons.",
+    "author": "Flora Whittemore"
+  },
+  {
+    "text": "La pire faillite est celle de la personne qui a perdu son enthousiasme.",
+    "author": "H. W. Arnold"
+  },
+  {
+    "text": "Le bonheur vient lorsque tes actes et tes paroles sont utiles à toi-même et aux autres.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Tout est parfait dans l’univers, même ton désir de l’améliorer.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "L’univers est plein de choses magiques qui attendent patiemment que notre esprit s’affine.",
+    "author": "Eden Phillpotts"
+  },
+  {
+    "text": "Comme une bougie ne peut brûler sans feu, les êtres humains ne peuvent vivre sans vie spirituelle.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Une chose longtemps attendue prend l’apparence de l’inattendu lorsqu’elle arrive enfin.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "L’action n’apporte pas toujours le bonheur, mais il n’y a pas de bonheur sans action.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "Je ne crois pas à l’échec. Ce n’est pas un échec si tu as apprécié le parcours.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "Ne fais pas aux autres ce que tu ne voudrais pas que l’on te fasse.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Les mots courts sont les meilleurs, et les mots anciens, lorsqu’ils sont courts, sont les meilleurs de tous.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Si tu allumes une lampe pour quelqu’un, elle éclairera aussi ton chemin.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "J’ai fait de mon mieux : voilà presque toute la philosophie de vie dont on a besoin.",
+    "author": "Lin-yutang"
+  },
+  {
+    "text": "Par la persévérance, beaucoup réussissent là où l’échec semblait certain.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "Sois reconnaissant pour les pluies de la vie qui nous poussent vers de nouveaux horizons.",
+    "author": "Byron Pulsifer"
+  },
+  {
+    "text": "Le secret d’une vie riche est d’avoir plus de commencements que de fins.",
+    "author": "Dave Weinbaum"
+  },
+  {
+    "text": "Ce n’est que lorsque l’esprit et le caractère sommeillent que l’on remarque l’habit.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Si quelque chose te déplaît, change-le. Si tu ne peux le changer, change ton attitude.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "En révisant ce que tu as appris et en apprenant encore, tu deviens capable d’enseigner.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Le monde est un livre, et ceux qui ne voyagent pas n’en lisent qu’une page.",
+    "author": "Saint Augustin"
+  },
+  {
+    "text": "Tant qu’une personne est capable de se renouveler, elle est vivante.",
+    "author": "Henri-Frederic Amiel"
+  },
+  {
+    "text": "Je ne crains pas les tempêtes, car j’apprends à gouverner mon navire.",
+    "author": "Louisa Alcott"
+  },
+  {
+    "text": "Pense par toi-même et laisse aux autres le privilège d’en faire autant.",
+    "author": "Voltaire"
+  },
+  {
+    "text": "La façon dont nous passons nos journées est, bien sûr, la façon dont nous passons notre vie.",
+    "author": "Annie Dillard"
+  },
+  {
+    "text": "Mon but n’a jamais été de consigner mes rêves, mais de les réaliser.",
+    "author": "Man Ray"
+  },
+  {
+    "text": "Les réalisations les plus complexes de la pensée sont possibles sans l’aide de la conscience.",
+    "author": "Sigmund Freud"
+  },
+  {
+    "text": "Sois malheureux ou motive-toi. Quoi qu’il faille faire, le choix t’appartient toujours.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "La plupart des grandes réussites ont été obtenues un pas seulement au-delà du plus grand échec.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Si tu penses pouvoir le faire, tu le peux. Et si tu penses ne pas le pouvoir, tu as raison.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Mieux vaut avoir aimé et perdu que n’avoir jamais aimé.",
+    "author": "Saint Augustin"
+  },
+  {
+    "text": "Tout le monde songe à changer le monde, mais personne ne songe à se changer soi-même.",
+    "author": "Léon Tolstoï"
+  },
+  {
+    "text": "La meilleure façon de remercier un beau moment est d’en profiter.",
+    "author": "Richard Bach"
+  },
+  {
+    "text": "Tu as des ennemis ? Tant mieux. Cela signifie que tu as défendu quelque chose dans ta vie.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Ralentis, et tout ce que tu poursuis finira par te rattraper.",
+    "author": "John De Paola"
+  },
+  {
+    "text": "Ton pire ennemi ne peut te faire autant de mal que tes propres pensées laissées sans garde.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "J’ai toujours voulu être quelqu’un, mais j’aurais dû être plus précise.",
+    "author": "Lily Tomlin"
+  },
+  {
+    "text": "Oui, nous brillons tous, comme la lune, les étoiles et le soleil.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "Le savoir accumule les faits ; la sagesse consiste à les simplifier.",
+    "author": "Martin Fischer"
+  },
+  {
+    "text": "La vie, c’est comme une bicyclette : pour garder l’équilibre, il faut avancer.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Nous devrions tous remercier ceux qui raniment notre flamme intérieure.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "La plupart des gens manquent les occasions parce qu’elles portent une salopette et ressemblent à du travail.",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "Le sentiment et le désir sont les moteurs de tous les efforts et de toutes les créations humaines.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Au bout du compte, nous ne retenons de nos études que ce que nous mettons en pratique.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "text": "Si tu rectifies ton esprit, le reste de ta vie trouvera sa place.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "Le monde s’écarte devant celui qui sait où il va.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Lorsque tes désirs sont assez forts, tu sembles posséder des forces surhumaines pour les réaliser.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "La patience et la persévérance ont un effet magique qui fait disparaître difficultés et obstacles.",
+    "author": "John Adams"
+  },
+  {
+    "text": "Je ne peux allonger mes journées, alors je m’efforce de les rendre meilleures.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "La tension est ce que tu crois devoir être. La détente est ce que tu es.",
+    "author": "Proverbe chinois"
+  },
+  {
+    "text": "Ne baisse jamais la tête. Garde-la haute et regarde le monde droit dans les yeux.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Celui qui se fortifie en surmontant les obstacles acquiert la force qui permet d’affronter l’adversité.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "text": "Nous ne pouvons pas tout faire à la fois, mais nous pouvons faire quelque chose tout de suite.",
+    "author": "Calvin Coolidge"
+  },
+  {
+    "text": "Tu dois grandir par toi-même, quelle qu’ait été la taille de ton grand-père.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Il est fatal d’entrer en guerre sans avoir la volonté de la gagner.",
+    "author": "General Douglas MacArthur"
+  },
+  {
+    "text": "Sois ce que tu es : c’est le premier pas pour devenir meilleur.",
+    "author": "Julius Charles Hare"
+  },
+  {
+    "text": "Rien, dans une chenille, ne laisse deviner qu’elle deviendra un papillon.",
+    "author": "Buckminster Fuller"
+  },
+  {
+    "text": "L’amour et la compassion ouvrent notre vie intérieure et réduisent le stress, la méfiance et la solitude.",
+    "author": "Dalaï-Lama"
+  },
+  {
+    "text": "Les idéaux sont une compréhension imaginative du souhaitable au sein du possible.",
+    "author": "Walter Lippmann"
+  },
+  {
+    "text": "L’être noble est satisfait et serein ; l’être mesquin est toujours tourmenté.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Si tu passes trop de temps à penser à une chose, tu ne la réaliseras jamais.",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "Le chemin n’est pas dans le ciel. Il est dans le cœur.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "La plupart des gens sont à peu près aussi heureux qu’ils décident de l’être.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Trois choses ne peuvent rester longtemps cachées : le soleil, la lune et la vérité.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Le plus souvent, la colère révèle davantage une faiblesse qu’une force.",
+    "author": "Dalaï-Lama"
+  },
+  {
+    "text": "Avant de froncer les sourcils, assure-toi qu’il ne reste aucun sourire disponible.",
+    "author": "Jim Beggs"
+  },
+  {
+    "text": "Une personne capable et désireuse d’accomplir quelque chose peut tout faire.",
+    "author": "Donald Kircher"
+  },
+  {
+    "text": "Toi-même, autant que quiconque dans l’univers, mérites ton amour et ton affection.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Il n’est pas rare de passer sa vie entière à attendre de commencer à vivre.",
+    "author": "Eckhart Tolle"
+  },
+  {
+    "text": "N’aie pas peur de t’aventurer sur une branche : c’est là que se trouvent les fruits.",
+    "author": "H. Jackson Browne"
+  },
+  {
+    "text": "Les méchants sont toujours surpris de trouver de l’habileté chez les gens de bien.",
+    "author": "Marquis Vauvenargues"
+  },
+  {
+    "text": "La vie est ainsi faite qu’un événement ne correspond pas, ne peut pas correspondre, à ce que l’on attend.",
+    "author": "Charlotte Bronte"
+  },
+  {
+    "text": "Si tu changes ta façon de regarder les choses, les choses que tu regardes changent.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Personne ne peut réussir durablement dans une activité qu’il n’aime pas.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Tu ne seras pas puni pour ta colère ; tu seras puni par ta colère.",
+    "author": "Bouddha"
+  },
+  {
+    "text": "Ne juge pas chaque jour à la récolte obtenue, mais aux graines que tu as semées.",
+    "author": "Robert Stevenson"
+  },
+  {
+    "text": "On dit que le temps change les choses, mais il faut en réalité les changer soi-même.",
+    "author": "Andy Warhol"
+  },
+  {
+    "text": "Ne t’excuse jamais de montrer tes sentiments : ce serait t’excuser de la vérité.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "La vérité à laquelle tu crois et t’accroches t’empêche d’entendre quelque chose de nouveau.",
+    "author": "Pema Chodron"
+  },
+  {
+    "text": "L’adversité révèle des talents qui seraient restés endormis dans la prospérité.",
+    "author": "Horace"
+  },
+  {
+    "text": "Si tu passes ta vie à attendre l’orage, tu ne profiteras jamais du soleil.",
+    "author": "Morris West"
+  },
+  {
+    "text": "La seule limite à nos réalisations de demain, ce sont nos doutes d’aujourd’hui.",
+    "author": "Franklin Roosevelt"
+  },
+  {
+    "text": "Chaque acte de notre vie touche une corde qui vibrera dans l’éternité.",
+    "author": "Edwin Chapin"
+  },
+  {
+    "text": "Vise la lune. Même si tu la manques, tu atterriras parmi les étoiles.",
+    "author": "Les Brown"
+  },
+  {
+    "text": "Peu importe la lenteur de ta progression, tant que tu ne t’arrêtes pas.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Une vie passée à faire des erreurs est plus honorable et plus utile qu’une vie passée à ne rien faire.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "text": "Si tu veux recevoir, commence par donner : c’est le commencement de l’intelligence.",
+    "author": "Lao Tseu"
+  },
+  {
+    "text": "C’est sur nos échecs que nous construisons une réussite nouvelle, différente et meilleure.",
+    "author": "Havelock Ellis"
+  },
+  {
+    "text": "La qualité n’est jamais un accident ; elle résulte toujours d’un effort intelligent.",
+    "author": "John Ruskin"
+  },
+  {
+    "text": "Étudier sans réfléchir est vain. Réfléchir sans étudier est dangereux.",
+    "author": "Confucius"
+  },
+  {
+    "text": "La vie est une suite de leçons qu’il faut vivre pour les comprendre.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Le temps change tout, sauf quelque chose en nous qui s’étonne toujours du changement.",
+    "author": "Thomas Hardy"
+  },
+  {
+    "text": "Tu comptes assez pour demander et tu es assez favorisé pour recevoir en retour.",
+    "author": "Wayne Dyer"
+  },
+  {
+    "text": "Si tu ne peux accomplir de grandes choses, accomplis de petites choses avec grandeur.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Si tu veux une vie plus enrichissante, change ta façon de penser.",
+    "author": "Oprah Winfrey"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main-capability",
+  "description": "Permissions minimales du dashboard local",
+  "windows": [
+    "main"
+  ],
+  "permissions": [
+    "core:default",
+    "core:window:allow-set-decorations",
+    "core:window:allow-set-fullscreen",
+    "core:window:allow-destroy",
+    "core:window:allow-start-dragging",
+    "autostart:default",
+    "dialog:allow-save",
+    "dialog:allow-open",
+    "fs:allow-write-text-file",
+    "allow-music-request",
+    "allow-desktop-tools"
+  ]
+}
